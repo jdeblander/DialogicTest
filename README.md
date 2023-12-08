@@ -1,6 +1,6 @@
 # DialogicTest
 
-This is a quick project, to reproduce an issue in Godot using Dialogic 2.0 alpha11.
+This is a quick project, to reproduce an issue in Godot 4.2.0 using [Dialogic](https://github.com/coppolaemilio/dialogic) 2.0 alpha11.
 
 ## How to reproduce
 
